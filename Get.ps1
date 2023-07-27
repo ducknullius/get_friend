@@ -1,4 +1,4 @@
-Function Get{
+Function Get-ChromeDump{
 
   
 
